@@ -24,7 +24,11 @@
     <li>Disciplina possui muitas cadeiras</li>
     <li>A entidade Usuario não possui relacionamentos</li>
     </ul>
-    
+   
+# Esquema do banco
+
+![](backend/bd.png)
+
 # Rodar as aplicações
  
  Backend 
