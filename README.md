@@ -24,3 +24,12 @@
     <li>Disciplina possui muitas cadeiras</li>
     <li>A entidade Usuario não possui relacionamentos</li>
     </ul>
+    
+
+
+# Rodar as aplicaçes
+  
+<h3>Backend<h3> 
+  <ul>
+   <li>Nescessario possuir eclipse ou alguma ide com superte ao spring boot</li>
+  </ul>
