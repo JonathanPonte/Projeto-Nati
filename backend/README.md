@@ -84,13 +84,6 @@
   }
 ```
 
-# Como ultilizar a api
-
-<h3>Tecnologias e linguagens usadas</h3>
-    <ul>
-    <li>Spring Boot 2.2.4</li>
-    <li>java 8</li>
-    </ul>
 
 
 
