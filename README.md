@@ -35,7 +35,7 @@
     <li>Nescessario criação de um banco local no postgres</li>
     <li>Na arquivo "src/main/resources/application.properties" possui as configurações do postgres</li>
     <li>Agora é só rodar a aplicação</li>
-    <li>Formato dos post pode ser encontrado no README.md da pasta backend</li>
+    <li>Formato dos posts podem ser encontrados no README.md da pasta backend</li>
     </ul>
   
  Frontend 
