@@ -31,5 +31,16 @@
   
 <h3>Backend<h3> 
   <ul>
-   <li>Nescessario possuir eclipse ou alguma ide com superte ao spring boot</li>
+   <li>Nescessario IDE com suporte ao Spring Boot</li>
+   <li>JDK 8</li>
+   <li>Postgres 12</li>
+   <li>Nescessario criação de um banco local no postgres</li>
+   <li>Na arquivo "src/main/resources/application.properties" possui as configurações do postgres</li>
+   <li>Agora é só rodar a aplicação</li>
+  </ul>
+  
+  <h3>Frontend<h3> 
+  <ul>
+   <li>Necessario o NPM</li>
+   <li><Para levantar aplicação basta dar o comando "npm start"/li>
   </ul>
